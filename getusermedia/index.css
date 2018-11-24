@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+}
+button {
+    margin: 0 10px 20px 0;
+    width: 90px;
+}
+div#buttons {
+    margin: 0 0 1em 0;
+        }
+div#container {
+    max-width: 100%;
+        }
+#errormessage {
+    display: none;
+    font-size: 300%;
+}
+#videoblock {
+    display: none;
+}
+p#dimensions {
+    height: 1em;
+    margin: 0 0 1.5em 0;
+}
+video {
+    background: none;
+    height: auto;
+    width: auto;
+}
